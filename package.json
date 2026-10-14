@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://adamfaik.github.io/youtube-moment",
+  "homepage": "https://the-ai-thinker.github.io/youtube-moment",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

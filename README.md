@@ -4,7 +4,7 @@ A smart YouTube video discovery app powered by Gemini AI and YouTube Data API. F
 
 ## 🌐 Live Demo
 
-**[Try it live →](https://adamfaik.github.io/youtube-moment/)**
+**[Try it live →](https://the-ai-thinker.github.io/youtube-moment/)**
 
 ## 📸 Screenshot
 
@@ -30,7 +30,7 @@ A smart YouTube video discovery app powered by Gemini AI and YouTube Data API. F
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/adamfaik/youtube-moment.git
+   git clone https://github.com/The-AI-Thinker/youtube-moment.git
    cd youtube-moment
    ```
 
@@ -113,7 +113,7 @@ This app is deployed to GitHub Pages using GitHub Actions. The deployment workfl
 
 1. Automatically builds the app on push to `main` branch
 2. Uses GitHub Secrets for API keys
-3. Deploys to `https://adamfaik.github.io/youtube-moment/`
+3. Deploys to `https://the-ai-thinker.github.io/youtube-moment/`
 
 See `.github/workflows/deploy.yml` for the deployment configuration.
 
